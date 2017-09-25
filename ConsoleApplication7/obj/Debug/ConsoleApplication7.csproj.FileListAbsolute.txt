@@ -1,0 +1,30 @@
+c:\users\supaman\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\supaman\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\supaman\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\supaman\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+c:\users\supaman\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\supaman\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+D:\Users\PhongNX5\Documents\Visual Studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+D:\Users\PhongNX5\Documents\Visual Studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\Users\PhongNX5\Documents\Visual Studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+D:\Users\PhongNX5\Documents\Visual Studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+D:\Users\PhongNX5\Documents\Visual Studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\Users\PhongNX5\Documents\Visual Studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\ofphu\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\ofphu\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\ofphu\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\ofphu\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\ofphu\Desktop\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\ofphu\Desktop\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\ofphu\Desktop\ddos form gg\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\ofphu\Desktop\ddos form gg\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\ofphu\Desktop\ddos form gg\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\ofphu\Desktop\ddos form gg\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\ofphu\Desktop\ddos form gg\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\ofphu\Desktop\ddos form gg\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\ngoca\Desktop\ddos\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\ngoca\Desktop\ddos\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\ngoca\Desktop\ddos\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\ngoca\Desktop\ddos\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\ngoca\Desktop\ddos\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\ngoca\Desktop\ddos\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
